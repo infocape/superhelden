@@ -1,0 +1,15 @@
+public class Tiere
+{
+
+  private String name;
+  
+  public Tiere()
+  {
+  }
+  
+  public String getName()
+  {
+    return name;
+  }
+  
+}
